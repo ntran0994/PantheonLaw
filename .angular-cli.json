@@ -24,7 +24,6 @@
         "../node_modules/font-awesome/css/font-awesome.min.css",
         "../node_modules/owl.carousel/dist/assets/owl.carousel.min.css",
         "../node_modules/owl.carousel/dist/assets/owl.theme.default.min.css",
-        "../node_modules/testimonial/dist/css/testimonial.min.css",
         "./assets/css/system.css",
         "./assets/css/home.css",
         "./assets/css/about.css",
